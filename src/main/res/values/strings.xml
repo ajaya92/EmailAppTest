@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmailAppTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_gmail">Gmail</string>
+    <string name="title_ymail">Ymail</string>
+    <string name="title_outlook">Outlook</string>
+
+
+
+</resources>

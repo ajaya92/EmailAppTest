@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_gmail"
+        android:icon="@drawable/gmail"
+        android:title="@string/title_gmail" />
+
+    <item
+        android:id="@+id/navigation_outlook"
+        android:icon="@drawable/outlook"
+        android:title="@string/title_outlook" />
+    <item
+        android:id="@+id/navigation_yahoo"
+        android:icon="@drawable/ymail"
+        android:title="@string/title_ymail" />
+
+</menu>
